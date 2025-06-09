@@ -6,14 +6,14 @@
   "author": "Aleksandr Mitin <alex.mitin.psmu@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DockDuck/y-excalidraw.git"
+    "url": "git+https://github.com/DocDuck/y-excalidraw.git"
   },
   "keywords": [
     "Excalidraw",
     "Yjs"
   ],
-  "homepage": "https://github.com/DockDuck/y-excalidraw#readme",
-  "bugs": "https://github.com/DockDuck/y-excalidraw/issues",
+  "homepage": "https://github.com/DocDuck/y-excalidraw#readme",
+  "bugs": "https://github.com/DocDuck/y-excalidraw/issues",
   "main": "./dist/y-excalidraw.cjs",
   "module": "./dist/y-excalidraw.js",
   "types": "./dist/src/index.d.ts",
